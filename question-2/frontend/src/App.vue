@@ -153,6 +153,10 @@ html {
           box-sizing: inherit;
 }
 
+.wrapper {
+  text-align: center;
+}
+
 .wrapper .hidden-xs-up {
   display: none !important;
 }
